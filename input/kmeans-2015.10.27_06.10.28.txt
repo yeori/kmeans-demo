@@ -1,0 +1,22 @@
+# generated at Tue Oct 27 18:43:28 GMT+09:00 2015
+# programmed by yeori@github
+
+map.w=400
+map.h=400
+sample.size=16
+sample.0=  101,   95
+sample.1=   94,  156
+sample.2=  276,  269
+sample.3=  307,  231
+sample.4=  290,  273
+sample.5=  317,  323
+sample.6=  261,  364
+sample.7=  296,  332
+sample.8=  265,  304
+sample.9=   69,  109
+sample.10=  156,   70
+sample.11=  149,  115
+sample.12=  117,  145
+sample.13=  128,   75
+sample.14=  133,  113
+sample.15=  138,  143

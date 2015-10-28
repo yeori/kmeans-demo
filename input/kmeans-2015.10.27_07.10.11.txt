@@ -1,0 +1,21 @@
+# generated at Tue Oct 27 19:00:11 GMT+09:00 2015
+# all samples are expected to be located within [map.w, map.h]
+# programmed by yeori@github
+
+map.w=400
+map.h=400
+sample.size=14
+sample.0=   47,   40
+sample.1=   33,   75
+sample.2=   76,   68
+sample.3=   67,  108
+sample.4=  215,  110
+sample.5=  268,  118
+sample.6=  226,  145
+sample.7=   92,  221
+sample.8=   69,  251
+sample.9=  116,  254
+sample.10=  155,  200
+sample.11=   52,  167
+sample.12=  153,   98
+sample.13=  138,  150
